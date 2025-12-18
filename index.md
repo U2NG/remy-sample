@@ -1,6 +1,6 @@
 # Hello world!
 
-*html
-*javascript
-*CSS
-*markdown
+* html
+* javascript
+* CSS
+* markdown
